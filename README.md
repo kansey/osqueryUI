@@ -27,7 +27,7 @@ Second, install dependencies.
 $ cd your-project-name && npm install
 ```
 
-Third, install Facebook [osquery](https://github.com/facebook/osquery)
+Third, install Facebook [osquery](https://github.com/facebook/osquery).
 
 [install](https://osquery.readthedocs.io/en/stable/installation/install-linux/)
 
